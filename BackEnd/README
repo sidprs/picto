@@ -5,3 +5,11 @@
      |     |( () )|      ||
 sid  |     | `--' |      |/
 vib  `-----'------'------'
+
+TODO:
+Goals of Backend
+
+
+- Save camera images in a user profile
+- Ability to send images to model fast
+- Network in python
